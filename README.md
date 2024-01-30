@@ -10,6 +10,6 @@ Make sure to run the cells in order (it takes some time). The last code cell cre
 Sources:
 
 [Red Wine Quality Dataset (required)](https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009)
-- added [White Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
+- added associated [White Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality) from the same original paper
 
-Besides documentations of the libraries used, other technical sources are linked at the bottom of the notebook.
+Besides documentations of the libraries used, all other technical information used is linked at the bottom of the notebook.
