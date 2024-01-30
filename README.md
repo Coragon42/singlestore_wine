@@ -1,5 +1,5 @@
 # singlestore_wine
-Originally made for [SingleStore x Data Science UCSB x Coders SB Datathon]([url](https://singlestore-ucsb-datathon-2024.devpost.com/))
+Originally made for [SingleStore x Data Science UCSB x Coders SB Datathon](https://singlestore-ucsb-datathon-2024.devpost.com/).
 
 Instructions:
 
