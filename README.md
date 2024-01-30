@@ -15,3 +15,5 @@ Sources:
 - added associated [White Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality) from the same original paper
 
 Besides documentations of the libraries used, all other technical information used is linked at the bottom of the notebook.
+
+Libraries used: ipywidgets, scikit-learn, xgboost, pandas, matplotlib, seaborn, numpy
