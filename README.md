@@ -3,7 +3,7 @@ Originally made for [SingleStore x Data Science UCSB x Coders SB Datathon](https
 
 Instructions:
 
-To run the SingleStore notebook, download it from this repository and then open it in any editor that can handle .ipynb notebooks. (This notebook was developed in SingleStore.)
+To run the SingleStore notebook, download it from this repository and then open it in SingleStore Notebooks (otherwise, it is not guaranteed that dependencies will be installed properly without additional manual installation).
 
 Make sure to run the cells in order (it takes some time). The last code cell creates slider widgets that feed user input into the final model.
 
