@@ -3,7 +3,9 @@ Originally made for [SingleStore x Data Science UCSB x Coders SB Datathon](https
 
 Instructions:
 
-To run the SingleStore notebook, download it from this repository and then open it in SingleStore Notebooks (otherwise, it is not guaranteed that dependencies will be installed properly without additional manual installation).
+To run the SingleStore notebook, you don't need to download any files except the .ipynb. (The .csv files and .names are just for hosting the data here.)
+
+Simply download the notebook from this repository and then open it in SingleStore Notebooks (otherwise, it is not guaranteed that dependencies will be installed properly without additional manual installation).
 
 Make sure to run the cells in order (it takes some time). The last code cell creates interactive slider widgets that feed user input into the final model, so you can play with the classifier firsthand.
 
