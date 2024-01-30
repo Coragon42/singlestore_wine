@@ -5,7 +5,7 @@ Instructions:
 
 To run the SingleStore notebook, you don't need to download any files except the .ipynb. (The .csv files and .names are just for hosting the data here.)
 
-Simply download the notebook from this repository and then open it in an editor that can open .ipynb notebooks (this notebook was developed in SingleStore).
+Simply download the notebook from this repository and then open it in an editor that can open .ipynb notebooks. (This notebook was developed in SingleStore, so the dependencies are guaranteed to be properly installed if you open it there.)
 
 Make sure to run the cells in order (it takes some time). The last code cell creates interactive slider widgets that feed user input into the final model, so you can play with the classifier firsthand.
 
