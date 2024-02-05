@@ -1,5 +1,7 @@
 # singlestore_wine
-Originally made for [SingleStore x Data Science UCSB x Coders SB Datathon](https://singlestore-ucsb-datathon-2024.devpost.com/).
+Originally made for [SingleStore x Data Science UCSB x Coders SB Datathon](https://singlestore-ucsb-datathon-2024.devpost.com/). ([Our Submission](https://devpost.com/software/wine-quality-classifier))
+
+Teammates: William Lee, Alexander Reyes, Mihir Srivistava, and me.
 
 Instructions:
 
