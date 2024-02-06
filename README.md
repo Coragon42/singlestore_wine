@@ -18,4 +18,4 @@ Sources:
 
 Besides documentations of the libraries used, all other technical information used is linked at the bottom of the notebook.
 
-Libraries used: ipywidgets, scikit-learn, xgboost, pandas, matplotlib, seaborn, numpy
+Libraries used: scikit-learn, pandas, xgboost, ipywidgets, matplotlib, seaborn, numpy
